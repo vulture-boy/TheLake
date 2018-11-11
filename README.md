@@ -7,3 +7,8 @@ Credit:
 (which acted as the engine for which the project runs on)
 - Kate Hartman and Nick Puckett's serial code for arduino to p5 via JSON.
 - Audio by Feyla, used with permission. https://soundcloud.com/feyla
+
+sketch.js houses the code employed in the game, whereas sketch2.js represents progress from an older version of the project.
+
+## Blog Entry:
+http://blog.ocad.ca/wordpress/digf6037-fw201802-01/2018/11/the-lake/
