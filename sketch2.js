@@ -3,6 +3,8 @@ Throttle Game
 Tyson Moll
 
 Uses JSON protocol, with p5.serialcontrol running & appropriate arduino controller
+
+This is an old version of the code created during the process of developing The Lake project.
  */
  
 // Control signals
