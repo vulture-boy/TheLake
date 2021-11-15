@@ -2,6 +2,8 @@
 
 by Tyson Moll
 
+This is a protoype javascript interface for the "Kayak Paddle Controller".
+
 Credit: 
 - Bryan Ma's p5.js demo for non-textured raycasting, https://gist.github.com/whoisbma/8fd99f3679d8246e74a22b20bfa606ee#file-raycast-demo-js
 (which acted as the engine for which the project runs on)
